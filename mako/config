@@ -1,0 +1,41 @@
+# Gruvbox Dark theme
+background-color=#282828
+text-color=#ebdbb2
+border-color=#458588
+border-size=2
+border-radius=0
+
+# Position
+anchor=top-right
+margin=10
+
+# Behavior
+max-visible=5
+sort=-time
+layer=overlay
+default-timeout=5000
+ignore-timeout=0
+
+# Font
+font=monospace 11
+
+# Padding
+padding=15
+margin=10
+
+# Progress bar
+progress-color=over #504945
+
+# Urgency levels
+[urgency=low]
+border-color=#98971a
+default-timeout=3000
+
+[urgency=normal]
+border-color=#458588
+default-timeout=5000
+
+[urgency=high]
+border-color=#cc241d
+text-color=#fb4934
+default-timeout=0
